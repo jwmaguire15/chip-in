@@ -1,0 +1,27 @@
+{
+  "name": "blockchain-toolkit",
+  "version": "1.0.0",
+  "description": "smart contract directory",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && sexit 1"
+  },
+  "author": "James Maguire",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.6.2",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "dotenv": "^4.0.0",
+    "ganache-cli": "^6.1.8",
+    "nodemon": "^2.0.19",
+    "solidity-coverage": "^0.8.2",
+    "truffle": "^5.1.65",
+    "truffle-contract": "^4.0.2",
+    "truffle-hdwallet-provider": "^1.0.0-web3one.0"
+  }
+}
