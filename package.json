@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/LaserChange/chip-in#readme",
   "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
     "web3": "^1.7.5"
   }
 }
