@@ -1,0 +1,28 @@
+{
+  "name": "chip-in",
+  "version": "1.0.0",
+  "description": "experiment web3 app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaserChange/chip-in.git"
+  },
+  "keywords": [
+    "ethereum",
+    "polygon",
+    "web3",
+    "crypto"
+  ],
+  "author": "James Maguire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaserChange/chip-in/issues"
+  },
+  "homepage": "https://github.com/LaserChange/chip-in#readme",
+  "dependencies": {
+    "web3": "^1.7.5"
+  }
+}
